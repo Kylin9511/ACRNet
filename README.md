@@ -1,5 +1,5 @@
 ## Overview
-This is a PyTorch implementation of ACRNet inference. The key results in paper [Aggregated Network for Massive MIMO CSI Feedback](https://arxiv.org/abs/2101.06618) can be reproduced.
+This is a PyTorch implementation of ACRNet inference. The key results in paper [Binarized Aggregated Network with Quantization: Flexible Deep Learning Deployment for CSI Feedback in Massive MIMO System](https://arxiv.org/abs/2105.00354) can be reproduced.
 
 ## Requirements
 
