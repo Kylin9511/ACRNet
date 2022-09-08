@@ -16,7 +16,7 @@ As mentioned in the paper, our dataset is generated from [COST2100](https://ieee
 Note that all dataset generation related setting can be found in the ACRNet paper if you wish to generate the dataset yourself.
 
 #### B. Checkpoints Downloading
-The checkpoints of our proposed BCsiNet can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1474ub1KwMyJIlQwTlqYvVw) (passwd: he1o) or [Google Drive](https://drive.google.com/drive/folders/1YlGLPC6ukvrUi9ChAdRgIAp89qRWFuaF?usp=sharing)
+The checkpoints of our proposed BCsiNet can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1Ld--KCjso2rHR4NQQry3oQ) (passwd: uvnv) or [Google Drive](https://drive.google.com/drive/folders/1YlGLPC6ukvrUi9ChAdRgIAp89qRWFuaF?usp=sharing)
 
 #### C. Project Tree Arrangement
 
